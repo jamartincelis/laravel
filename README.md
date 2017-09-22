@@ -1,2 +1,2 @@
 # laravel
-Web app hecha en laravel
+Web app construida usando laravel
